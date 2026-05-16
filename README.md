@@ -16,11 +16,12 @@ range of operating conditions.
 
 ```
 📁 root/
-├── BEM_Calculation.ipynb                        # Task 1: BEM implementation + 0.5 MW verification
-├── BEM_Task2_CLEAN.ipynb                        # Task 2: 16 MW blade aerodynamic design
-├── Task5_Wind_Conditions.ipynb                  # Task 5: Performance & control analysis
-├── RISO-A1-A18 Profile...csv                    # Reference blade geometry (0.5 MW)
-├── RISOA1A18LiftDragCharacteristics.csv         # Reference aerofoil polars
+├── Task1-BEM_Calculation.ipynb                                # Task 1: BEM implementation + 0.5 MW verification
+├── Task2-BEM_Task2_CLEAN.ipynb                                # Task 2: 16 MW blade aerodynamic design
+├── Task5-Task5_Wind_Conditions.ipynb                          # Task 5: Performance & control analysis
+├── Reference Turbine ├──RISOA1A18LiftDragCharacteristics.csv  # Reference aerofoil polars
+|                     └──RISO-A1-A18 Profile...csv             # Reference blade geometry (0.5 MW)
+|          
 └── README.md
 ```
 
