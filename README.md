@@ -23,6 +23,7 @@ range of operating conditions.
 |                     └──RISO-A1-A18 Profile...csv             # Reference blade geometry (0.5 MW)
 |          
 └── README.md
+└── Excel to Solidworks
 ```
 
 ---
