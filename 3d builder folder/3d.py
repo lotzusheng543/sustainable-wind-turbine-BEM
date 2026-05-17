@@ -8,16 +8,17 @@ from mpl_toolkits.mplot3d.art3d import Poly3DCollection
 # ============================================================
 BASE_DIR = Path(__file__).resolve().parent
 COORDS_DIR = BASE_DIR / "COORDS"
-OUT_PNG = BASE_DIR / "blade_surface_from_table.png"
+OUT_PNG = BASE_DIR / "blade_surface_new_chord.png"
 
 # ============================================================
 # Blade data from your table
 # ============================================================
 # Element, r [m], airfoil, chord [m], twist [deg]
+
 blade_data = [
-    (1,  26.90, "COORD42", 5.80, 0.00),
-    (2,  31.90, "COORD00", 9.50, 16.75),
-    (3,  37.10, "COORD03", 9.22, 13.81),
+    (1,  26.69, "COORD42", 5.80, 20.00),
+    (2,  31.90, "COORD00", 6.72, 16.75),
+    (3,  37.10, "COORD03", 8.36, 13.81),
     (4,  42.31, "COORD08", 8.91, 11.13),
     (5,  47.51, "COORD48", 8.60, 8.72),
     (6,  52.72, "COORD02", 8.27, 6.83),
@@ -35,6 +36,7 @@ blade_data = [
     (18, 115.19, "COORD32", 3.31, 0.06),
     (19, 120.40, "COORD23", 1.57, 0.02),
 ]
+
 
 N_POINTS = 220
 
