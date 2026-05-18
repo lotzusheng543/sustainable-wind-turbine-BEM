@@ -27,7 +27,8 @@ range of operating conditions.
 └── README.md
 └── Excel to Solidworks
 ```
-<img width="910" height="278" alt="3d" src="https://github.com/user-attachments/assets/ad25def0-599b-40c6-9a28-66dae6f40f81" />
+<img width="879" height="192" alt="3d" src="https://github.com/user-attachments/assets/91c578e7-2597-4469-8ff5-729a44ca3bd2" />
+
 
 
 ---
