@@ -46,6 +46,8 @@ range of operating conditions.
 | **5d** | Discussion: adapting blade for onshore 8 MW half-power variant | `Task5_Wind_Conditions.ipynb` |
 
 ---
+<img width="908" height="327" alt="final model" src="https://github.com/user-attachments/assets/a367fc68-02a2-498b-bf1d-07a7f36ac3fb" />
+
 
 ## Key Parameters
 
