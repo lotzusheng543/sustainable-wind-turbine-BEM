@@ -129,6 +129,7 @@ Run all cells **top-to-bottom** in each notebook. Each notebook is self-containe
 | LO TZU SHENG and Zhang Zhiming | Task 1: BEM implementation & verification |
 | LO TZU SHENG and Zhang Zhiming | Task 2: Aerodynamic blade design |
 | LO TZU SHENG and Zhang Zhiming | Task 5: Wind condition & control analysis |
+| Zhi Xi Tang | Excel to .txt to Solidworks |
 
 ---
 
