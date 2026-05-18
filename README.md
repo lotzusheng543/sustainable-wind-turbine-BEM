@@ -14,7 +14,7 @@ range of operating conditions.
 ---
 
 <img width="1498" height="842" alt="offshore-wind-farm-3" src="https://github.com/user-attachments/assets/fb21347f-9061-4b5f-99a9-0a35ea80ada9" />
-[1]
+## [1]
 
 
 
@@ -149,4 +149,4 @@ Run all cells **top-to-bottom** in each notebook. Each notebook is self-containe
 - **Presentation:** Friday 15 May 2026, 14:00–16:00 (Done)
 
 ## Reference
-[1] “Offshore wind | RenewableUK,” RenewableUK. https://www.renewableuk.com/our-work/offshore-wind/
+[1] “Offshore wind | RenewableUK,” RenewableUK. https://www.renewableuk.com/our-work/offshore-wind/  [Accessed: 05 May 2026]
