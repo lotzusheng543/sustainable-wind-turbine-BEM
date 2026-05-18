@@ -14,7 +14,7 @@ range of operating conditions.
 ---
 
 <img width="1498" height="842" alt="offshore-wind-farm-3" src="https://github.com/user-attachments/assets/fb21347f-9061-4b5f-99a9-0a35ea80ada9" />
-## [1]
+[1]
 
 
 
